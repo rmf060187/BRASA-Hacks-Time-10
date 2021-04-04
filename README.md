@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">BRASA Hacks - Time 10 </h1>
+<h1 align="center">insTEX </h1>
 
 <p align="center">💰 Simulador de leitura de imagem para compras no Instagram 💰</p>
 
