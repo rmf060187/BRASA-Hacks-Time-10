@@ -40,13 +40,17 @@ A seguinte ferramenta foi utilizada na construção do projeto:
 
 ## 🙌 Equipe
 
-🔹 Ana Clara Soares - Marketing [![Linkedin Badge](https://img.shields.io/badge/-Ana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmfer/)](https://www.linkedin.com/in/anaclarasoareso/)
+🔹 Ana Clara Soares - Marketing 
+[![Linkedin Badge](https://img.shields.io/badge/-Ana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmfer/)](https://www.linkedin.com/in/anaclarasoareso/)
 
-🔹 Renato Maximiano Ferreira - Programação [![Linkedin Badge](https://img.shields.io/badge/-Renato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmfer/)](https://www.linkedin.com/in/renato-maximiano-ferreira-93b57b123/)
+🔹 Renato Maximiano Ferreira - Programação 
+[![Linkedin Badge](https://img.shields.io/badge/-Renato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmfer/)](https://www.linkedin.com/in/renato-maximiano-ferreira-93b57b123/)
 
-🔹 Robson Lima - Business [![Linkedin Badge](https://img.shields.io/badge/-Robson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmfer/)](https://www.linkedin.com/in/robsonglima/)
+🔹 Robson Lima - Business 
+[![Linkedin Badge](https://img.shields.io/badge/-Robson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmfer/)](https://www.linkedin.com/in/robsonglima/)
 
-🔹 Sabrina Santos - Design UX [![Linkedin Badge](https://img.shields.io/badge/-Sabrina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmfer/)](https://www.linkedin.com/in/sabrina-goes-a17b581bb/)
+🔹 Sabrina Santos - Design UX 
+[![Linkedin Badge](https://img.shields.io/badge/-Sabrina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelmfer/)](https://www.linkedin.com/in/sabrina-goes-a17b581bb/)
 ## Autor
 ---
 
