@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<meta charset = "UFT-8">
+
+<style>
+
+	body{
+		background-image: url(https://images.unsplash.com/photo-1445205170230-053b83016050?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=751&q=80);
+		background-attachment: fixed;
+		background-size: 100%;
+		background-repeat: no-repeat;
+		background-color: #000;
+
+	}
+	
+</style>
+
+<center><img src=https://uploaddeimagens.com.br/images/003/180/566/full/65713D9D-3AB7-473C-B7DE-0F990086A3D6.jpeg?1617506301 height="502" width="248"></center><br>
+
+<center><button onclick="resposta()">Compartilhar foto com a C&A</button></center>
+
+<p id="demo"></p>
+
+<script>
+	function resposta() {
+		var x;
+		var r=confirm("Compartilhar foto com a C&A");
+	
+		if (r==true) {
+			x=alert("Seja bem vindo a nossa loja! Com a nossa nova tecnologia estamos buscando nesse momento os itens a partir da imagem que nos enviou!");
+		} else {
+			x="Volte sempre!";
+		}
+		
+		document.getElementById("demo").innerHTML=x;
+
+		function abreLink(){
+
+			window.open("https://www.cea.com.br/camisa-jeans-masculina-tradicional-com-bolsos-manga-longa-azul-claro-9961818-azul_claro/p");
+		}
+
+		abreLink();
+	}
+</script>
+</Body>
+</html>
